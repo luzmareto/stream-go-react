@@ -40,6 +40,8 @@ It also demonstrates how **MongoDB** can serve as a reliable, scalable database 
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/GavinLonDigital/MagicStream.git
+   git clone https://github.com/GavinLonDigital/stream-go-react.git
    cd MagicStream
-# stream-go-react
+2. Create Collection MongoDB In your local and paste the json file
+3. Create file .env at client and server
+4. then running the server 
