@@ -1,4 +1,4 @@
-# MagicStream 🎬✨
+# Stream with Golang, React, MongoDb and AI 🎬✨
 
 Movie streaming platform with AI recommendation built with modern web technologies (React/Go/gin-gonic/MongoDB) 
 
@@ -40,7 +40,7 @@ It also demonstrates how **MongoDB** can serve as a reliable, scalable database 
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/GavinLonDigital/stream-go-react.git
+   git clone https://github.com/luzmareto/stream-go-react.git
    cd MagicStream
 2. Create Collection MongoDB In your local and paste the json file
 3. Create file .env at client and server
